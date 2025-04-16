@@ -1,5 +1,4 @@
 ## Welcome to my GitHub!
- I am a third year computer science major and business minor at Georgia Tech.
 
 <!--
 **gracepfohl/gracepfohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
